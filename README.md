@@ -6,7 +6,7 @@ HTML, CSS и JavaScript без сервера и базы данных.
 
 ## Демо
 
-🔗 **Публичная ссылка:** https://ВАШ-ЛОГИН.github.io/car-forms/
+🔗 **Публичная ссылка:** https://github.com/enliri/car-forms-college-project-.git
 
 ## Возможности
 
